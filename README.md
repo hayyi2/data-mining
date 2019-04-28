@@ -1,1 +1,1 @@
-# data-mining
+# Data Mining
